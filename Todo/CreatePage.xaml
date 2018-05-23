@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Todo.CreatePage">
+    <ContentPage.Content>
+      <StackLayout Padding="20" BackgroundColor="Gray">
+          <Label Text="New Task" TextColor="Blue" FontSize="18" />
+            <Entry x:Name="Todo" Placeholder="New ToDo ITEM" WidthRequest="150"/>
+            <Picker x:Name="Priority" 
+                    WidthRequest="150"
+                    SelectedIndexChanged="OnSelectedIndexChanged"
+                    >
+                <Picker.Items >
+                    <x:String>High</x:String>
+                    <x:String>Medium</x:String>
+                    <x:String>Low</x:String>
+                </Picker.Items>
+            </Picker>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Due Date" VerticalOptions="End" TextColor="Green"/>
+                <DatePicker x:Name="Date"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Due Time" TextColor="Green" VerticalOptions="End"/>
+                <TimePicker x:Name="Time"></TimePicker>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button BackgroundColor="Green" TextColor="White" WidthRequest="75" Text="Save" Clicked="OnSave"/>
+                <Button BackgroundColor="Red" TextColor="White" WidthRequest="75" Text="Cancel" Clicked="OnCancel"/>
+                <Button BackgroundColor="Blue" TextColor="White" WidthRequest="75" Text="Review" Clicked="OnReview"/>
+            </StackLayout>
+        </StackLayout>
+  </ContentPage.Content>
+</ContentPage>
