@@ -3,6 +3,12 @@ C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\ass
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\Java.Interop.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\Mono.Android.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\mscorlib.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\SQLite-net.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\System.Core.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\System.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\System.Xml.dll
@@ -62,4 +68,6 @@ C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\ass
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\System.Globalization.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\Mono.Security.dll

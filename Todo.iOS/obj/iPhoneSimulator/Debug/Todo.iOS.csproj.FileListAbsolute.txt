@@ -52,3 +52,9 @@ C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\bin\iPhoneSimulator\Debug
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\obj\iPhoneSimulator\Debug\Todo.iOS.csproj.CopyComplete
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\bin\iPhoneSimulator\Debug\SQLite-net.pdb
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll

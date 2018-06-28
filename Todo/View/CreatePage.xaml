@@ -8,7 +8,8 @@
             <Entry x:Name="Todo" Placeholder="New ToDo ITEM" WidthRequest="150"/>
             <Picker x:Name="Priority" 
                     WidthRequest="150"
-                    SelectedIndexChanged="OnSelectedIndexChanged"
+                    SelectedIndexChanged="OnSelectedIndexChanged" 
+                    SelectedIndex="1"
                     >
                 <Picker.Items >
                     <x:String>High</x:String>

@@ -16,29 +16,37 @@
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)CreatePage.xaml.cs">
+    <Compile Include="$(MSBuildThisFileDirectory)Data\ISQLite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\TodoDatabase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\dtConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\CreatePageViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\CreatePage.xaml.cs">
       <DependentUpon>CreatePage.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)ListTaskPage.xaml.cs">
+    <Compile Include="$(MSBuildThisFileDirectory)View\ListTaskPage.xaml.cs">
       <DependentUpon>ListTaskPage.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)TodoItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\TodoItem.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)CreatePage.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\CreatePage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)ListTaskPage.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\ListTaskPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Model\" />
+    <Folder Include="$(MSBuildThisFileDirectory)View\" />
   </ItemGroup>
 </Project>

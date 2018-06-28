@@ -13,7 +13,7 @@
 namespace Todo {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Rhino Systems\\source\\repos\\Todo\\Todo\\Todo\\CreatePage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Rhino Systems\\source\\repos\\Todo\\Todo\\Todo\\View\\CreatePage.xaml")]
     public partial class CreatePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

@@ -92,6 +92,9 @@ C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\ass
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\System.Xml.pdb
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\bin\Debug\SQLite-net.pdb
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\linksrc\SQLite-net.pdb
+C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\android\assets\SQLite-net.pdb
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\bin\Debug\Todo.Android.dll
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\linksrc\Todo.Android.dll.mdb
 C:\Users\Rhino Systems\source\repos\Todo\Todo\Todo.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb

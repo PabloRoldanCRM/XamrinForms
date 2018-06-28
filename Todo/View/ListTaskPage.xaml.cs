@@ -21,11 +21,21 @@ namespace Todo
             TodoItems = items;
 			InitializeComponent ();
 		}
+        public ListTaskPage()
+        {
+            InitializeComponent();
+        }
 
         public void OnSelected(object o, ItemTappedEventArgs e)
         {
             var toDoItems = e.Item as TodoItem;
             DisplayAlert("Item! ", toDoItems.TaskName + " Was Selcted!", "DISSMIS");
         }
-	}
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            ToDoList.ItemsSource = App.Database.GetTodos();
+        }
+    }
 }

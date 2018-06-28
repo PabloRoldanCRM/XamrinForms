@@ -1,4 +1,5 @@
 using System;
+using Todo.Data;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -7,6 +8,17 @@ namespace Todo
 {
 	public partial class App : Application
 	{
+        private static TodoDatabase db;
+        public static TodoDatabase Database
+        {
+
+            get { if (db != null)
+                {
+                    db = new TodoDatabase();
+                }return db;
+
+            }
+        }
 		public App ()
 		{
 			InitializeComponent();
